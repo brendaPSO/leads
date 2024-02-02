@@ -66,3 +66,17 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+@font-face {
+  font-family: 'Geosans';
+  src: url(/fonts/GeosansLight.ttf) format("truetype")
+}
+
+@font-face {
+  font-family: 'Geosans Oblique';
+  src: url(/fonts/GeosansLight-Oblique.ttf) format("truetype")
+}
+
+body {
+  overflow-x: hidden;
+}
